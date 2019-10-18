@@ -36,7 +36,23 @@ These are the tools needed to cross compile 6502 assembly code.
 ### [vlink](http://sun.hasenbraten.de/vlink/) v0.16b
 	brew install pacav69/c64/vlink
 	
-### [cross compiler tools](https://github.com/) v0.1.0
+### [cross compiler tools](https://www.chibiakumas.com/6502/sources.7z)
+
+[6502 Dev Tools](https://www.chibiakumas.com/6502/6502DevTools.php)
+
+## Tutorials
+[chibiakumas ](https://www.chibiakumas.com/6502/6502DevTools.php)
+[chibiakumas Youtube channel](https://www.youtube.com/chibiakumas)
+
+# Other cross compilers
+
+### [ACME](https://sourceforge.net/projects/acme-crossass/)
+    brew install acme
+
+### [CC65](https://cc65.github.io)
+     brew install cc65
+
+
 	
 
 
