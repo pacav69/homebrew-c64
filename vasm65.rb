@@ -1,5 +1,5 @@
 class Vasm65 < Formula
-  desc "VASM or C64 and 6502 CPUs"
+  desc "VASM for C64 and 6502 CPUs"
   homepage 'http://sun.hasenbraten.de/vasm/'
   url 'http://todi.se/brew/vasm/1.8e/vasm.tar.gz'
   version '1.8e'

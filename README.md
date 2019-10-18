@@ -60,6 +60,8 @@ These are the tools needed to cross compile 6502 assembly code.
 
 [chibiakumas Youtube channel](https://www.youtube.com/chibiakumas)
 
+[Frodo Emulator MAC OS](https://www.bannister.org/software/frodo.htm)
+
 # Other cross compilers
 
 ### [VASM](http://sun.hasenbraten.de/vasm/index.php?view=main)
