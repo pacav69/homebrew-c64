@@ -1,6 +1,9 @@
 # homebrew-c64
 
-A repository for **C64 Development tools** 
+A repository for **6502 Development tools** 
+
+# Introduction
+These are the tools needed to cross compile 6502 assembly code.
 
 # Platforms
 
