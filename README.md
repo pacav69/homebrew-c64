@@ -62,6 +62,8 @@ These are the tools needed to cross compile 6502 assembly code.
 
 # Other cross compilers
 
+### [VASM](http://sun.hasenbraten.de/vasm/index.php?view=main)
+
 ### [ACME](https://sourceforge.net/projects/acme-crossass/)
     brew install acme
 
