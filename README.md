@@ -40,8 +40,24 @@ These are the tools needed to cross compile 6502 assembly code.
 
 [6502 Dev Tools](https://www.chibiakumas.com/6502/6502DevTools.php)
 
+## Infprmation
+
+[facebook group retromagazine](https://www.facebook.com/groups/retromagazine/)
+
+[commander-x16 forums](https://murray2.com/forums/commander-x16.9/)
+
+[x16-emulator](https://github.com/commanderx16/x16-emulator)
+
+[commander-x16 intro part1](https://youtu.be/ayh0qebfD2g)
+
+[commander-x16 intro part1](https://youtu.be/sg-6Cjzzg8s)
+
+[commander-x16 facebook group](https://www.facebook.com/groups/CommanderX16/)
+
 ## Tutorials
-[chibiakumas ](https://www.chibiakumas.com/6502/6502DevTools.php)
+
+[chibiakumas website](https://www.chibiakumas.com/6502/6502DevTools.php)
+
 [chibiakumas Youtube channel](https://www.youtube.com/chibiakumas)
 
 # Other cross compilers
