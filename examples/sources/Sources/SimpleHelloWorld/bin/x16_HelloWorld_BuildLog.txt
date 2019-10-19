@@ -1,0 +1,17 @@
+parsing
+Got 258 errors while executing:
+  (/Users/silvermac/GithubProjects/homebrew-c64/examples/sources/Sources/SimpleHelloWorld/x16_HelloWorld.asm 2:12) Syntax error
+  (/Users/silvermac/GithubProjects/homebrew-c64/examples/sources/Sources/SimpleHelloWorld/x16_HelloWorld.asm 2:26) Syntax error
+  (/Users/silvermac/GithubProjects/homebrew-c64/examples/sources/Sources/SimpleHelloWorld/x16_HelloWorld.asm 4:10) Syntax error
+  (/Users/silvermac/GithubProjects/homebrew-c64/examples/sources/Sources/SimpleHelloWorld/x16_HelloWorld.asm 4:31) Syntax error
+  (/Users/silvermac/GithubProjects/homebrew-c64/examples/sources/Sources/SimpleHelloWorld/x16_HelloWorld.asm 5:10) Syntax error
+  ...
+
+
+z_Regs equ $20  ;We need some Zeropage space for our work
+           ^
+
+Error: Syntax error
+at line 2, column 12 in x16_HelloWorld.asm
+
+

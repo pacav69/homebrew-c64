@@ -40,6 +40,8 @@ These are the tools needed to cross compile 6502 assembly code.
 
 [6502 Dev Tools](https://www.chibiakumas.com/6502/6502DevTools.php)
 
+[Sublime Text KickAssembler Package](https://dl.dropbox.com/s/3307jfqlbqd8vp2/SublimeKickAssemblerPackage.zip)
+
 ## Infprmation
 
 [facebook group retromagazine](https://www.facebook.com/groups/retromagazine/)
@@ -63,6 +65,11 @@ These are the tools needed to cross compile 6502 assembly code.
 [Frodo Emulator MAC OS](https://www.bannister.org/software/frodo.htm)
 
 # Other cross compilers
+
+### [dasm](https://dasm-dillon.sourceforge.io/)
+    brew install dasm
+
+### [Kickassembler](http://theweb.dk/KickAssembler/Main.html#frontpage)
 
 ### [VASM](http://sun.hasenbraten.de/vasm/index.php?view=main)
 
