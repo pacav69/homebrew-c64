@@ -42,7 +42,7 @@ These are the tools needed to cross compile 6502 assembly code.
 
 [Sublime Text KickAssembler Package](https://dl.dropbox.com/s/3307jfqlbqd8vp2/SublimeKickAssemblerPackage.zip)
 
-## Infprmation
+## Information
 
 [facebook group retromagazine](https://www.facebook.com/groups/retromagazine/)
 
@@ -78,6 +78,15 @@ These are the tools needed to cross compile 6502 assembly code.
 
 ### [CC65](https://cc65.github.io)
      brew install cc65
+
+
+## IT Development:
+
+p.s:
+I **LOVE** coffee! Buy me a coffee at:   
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XWQDNV85QA9RC&source=url)
+
 
 
 	
